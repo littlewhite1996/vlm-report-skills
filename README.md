@@ -1,12 +1,14 @@
 # 让知识来找你：多模态 AI 行业洞察助手
 
-让大模型定期帮你读行业动态、筛出值得关注的变化，并把判断和原文放在一起。每周或每月收到一份可回查的多模态报告，你可以把时间花在理解变化和形成判断上。
+让大模型每周或每月筛出值得关注的多模态行业动态，解释为什么重要，并保留原文供你回查。
 
-这个仓库提供 **两份可复用的 Skill** 和 **一份原版 HTML 报告**。第一次可以从最近 7 天开始，以后按你自己的节奏续报。
+## 💡 本期认知升级
+
+![2026 年 11 月 6 日原版报告「本期认知升级」截图：核心判断、判断 02、判断 03 和下期观察](assets/report-cognition.png)
+
+*原版报告截图 · 2026 年 11 月 6 日。*
 
 **[下载两份 Skill 和原版示例（ZIP）](https://github.com/littlewhite1996/vlm-report-skills/archive/refs/heads/main.zip)** · **[查看原版 HTML 文件](sample/index.html)**
-
-[![原版报告首页：本期主线、分类筛选和正文配图](assets/report-preview.webp)](sample/index.html)
 
 ## 每期帮你回答三个问题
 
@@ -17,6 +19,8 @@
 ## 原版报告长什么样？
 
 示例覆盖 **2026.10.29–11.06**：从 76 篇报道中整理出 33 条资讯、5 条主线和 Top 5。下载后双击 `sample/index.html`，即可离线查看；点开原文链接时需要联网。
+
+[![原版报告首页：本期主线、分类筛选和正文配图](assets/report-preview.webp)](sample/index.html)
 
 <details>
 <summary>展开：看看分类资讯流</summary>
